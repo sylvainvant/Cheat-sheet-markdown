@@ -3,8 +3,8 @@
 # JE SUIS UN TITRE
 
 * List item 1 at level 1
- * List item 2 at level 2
-  * List item 3 at level 3
+* List item 2 at level 2
+* List item 3 at level 3
 
    ```ruby
 	class Example
