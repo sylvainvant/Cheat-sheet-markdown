@@ -14,4 +14,4 @@ if i want to surround it with [color=#3bfe02]double quotation[/color] marks, i s
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
-color:red oui
+<span style='color:red'> oui </span>
