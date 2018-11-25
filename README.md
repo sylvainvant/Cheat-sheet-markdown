@@ -19,3 +19,8 @@ if i want to surround it with [color=#3bfe02]double quotation[/color] marks, i s
 | Aligné à gauche  | centré          |    Aligné à droite |
 
 <span style='color:red'> oui </span>
+
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
