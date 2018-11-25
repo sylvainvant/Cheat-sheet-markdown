@@ -18,7 +18,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 *Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings
 
-### Example : 
+### ***Example*** : 
 
 ***With space***
 
