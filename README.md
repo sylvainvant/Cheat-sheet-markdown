@@ -6,11 +6,11 @@ With this plugin you can surround words or sentences with a simple command in vi
 
 for example we have a sentence : **Hello world** 
 
-if i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the ***yss"*** command
+if i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the `yss"` command
 
 ***yss"*** = ***"Hello world"***
 
-And i can also use the command to add ***brackets, parenthesis*** and ***many others***, using yss and then the symbols with which i want to surround my sentences
+And i can also use the command to add ***brackets, parenthesis*** and ***many others***, using *yss* and then the symbols with which i want to surround my sentences
 
 ***yss]*** = ***[Hello world]***
 
@@ -20,7 +20,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 ### ***Example*** : 
 
-#### ***With space***
+### ***With space***
 
 ***yss(*** = ***( Hello world )***  
 ***yss[*** = ***[ Hello world ]***
