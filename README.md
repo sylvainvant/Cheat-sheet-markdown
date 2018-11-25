@@ -15,3 +15,13 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 ***yss]*** = ***[Hello world]***
 
 ***yss)*** = ***(Hello world)***
+
+*Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings
+
+###Example : 
+   With space
+* yss( = ( Hello world )
+* yss[ = [ Hello world ]
+   Without space
+* yss) = (Hello world)
+* yss] = [Hello world]
