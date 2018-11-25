@@ -6,7 +6,7 @@ With this plugin you can surround words or sentences with a simple command in vi
 
 for example we have a sentence : **Hello world** 
 
-if i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the ```***yss"***``command
+if i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the ``` ***yss"*** `` command
 
 ***yss"*** = ***"Hello world"***
 
