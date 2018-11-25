@@ -2,7 +2,7 @@
 
 ### if you haven't installed it yet, come here : https://vimawesome.com/plugin/surround-vim
 
-<p class="text-center">With this plugin you can surround words or sentences with a simple command in vim</p>
+<p style="text-align:center">With this plugin you can surround words or sentences with a simple command in vim</p>
 
 for example we have a sentence : **Hello world** 
 
