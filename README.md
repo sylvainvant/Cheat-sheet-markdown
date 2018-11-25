@@ -12,9 +12,9 @@ if i want to surround it with ***double quotation*** marks, i start by placing m
 
 And i can also use the command to add ***brackets, parenthesis*** and ***many others***, using *yss* and then the symbols with which i want to surround my sentences
 
-`***yss]*** = ***[Hello world]***`
+`yss] = [Hello world]`
 
-***yss)*** = ***(Hello world)***
+`yss) = (Hello world)`
 
 *Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings
 
@@ -22,10 +22,10 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 ### ***With space***
 
-***yss(*** = ***( Hello world )***  
-***yss[*** = ***[ Hello world ]***
+`yss( = ( Hello world )`  
+`yss[ = [ Hello world ]`
 
 ### ***Without space***
 
-***yss)*** = ***(Hello world)***  
-***yss]*** = ***[Hello world]***
+`yss) = (Hello world)`    
+`yss] = [Hello world]`
