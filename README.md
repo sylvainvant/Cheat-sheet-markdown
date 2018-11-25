@@ -27,5 +27,5 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 ***Without space***
 
-***yss)*** = ***(Hello world)***
+***yss)*** = ***(Hello world)***  
 ***yss]*** = ***[Hello world]***
