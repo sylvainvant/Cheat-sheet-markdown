@@ -54,6 +54,15 @@ And if I want to surround my words with HTML tags it's possible, they will even 
 `ysiw<p> = <p>Hello world</p>`  
 `ys2aw<h1> = <h1>Hello world</h1>`   
 
+ let's finish by doing a v ( to put it in visual mode on vim) then selecting all the lines we want to surround followed by an S and the desired entourage, example:  
+
+`v S<p> = <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus</p>`  
+
+`v S<em> = <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus, pellentesque non volutpat vitae, consequat ut purus
+
+. Vivamus quis dui sodales lacus hendrerit volutpat.
+ Phasellus ac sagittis arcu.</em>`
+
 
 
 
