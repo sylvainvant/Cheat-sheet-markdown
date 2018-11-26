@@ -4,9 +4,9 @@
 
 With this plugin you can surround words or sentences with a simple command in vim
 
-for example we have a sentence : `Hello world` 
+For example we have a sentence : `Hello world` 
 
-if i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the `yss"` command
+If i want to surround it with ***double quotation*** marks, i start by placing my cursor on the word and i will use the `yss"` command
 
 `yss" = "Hello world"`
 
@@ -30,7 +30,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 Now you can surround an entire sentence with the desired character, but you can't surround just one or two words
 
-if you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
+If you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
 
 #### * = my cursor
 
@@ -43,15 +43,17 @@ If i want to surround the complete word then i use `ysiw` ( is = entire word) wi
 `ysiw' = 'He*llo' world`  
 `ysiw- = Hello -wo*rld-`  
 
-i can also surround many words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***
+I can also surround many words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***
 
 `ys2aw) = (*Hello at) world`  
 `ys2aw} = Hello *{at world}`  
 `ys3aw[ = [ He*llo at world ]`  
 
-<center>And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:</center>
+And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:  
 
 `ysiw<p> = <p>Hello world</p>`  
 `ys2aw<h1> = <h1>Hello world</h1>`   
+
+
 
 
