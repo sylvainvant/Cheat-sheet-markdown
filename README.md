@@ -36,9 +36,9 @@ if you want to surround ***only*** one word you can use `ysw)` to surround the w
 
 #### * = my cursor
 
-`H*(ello) world`  
-`Hello *(world)`   
-`*(Hello) world`  
+`ysw) = H*(ello) world`  
+`ysw) = Hello *(world)`   
+`ysw) = *(Hello) world`  
 
 If i want to surround the complete word then i use `ysiw` ( is = entire word) with this command even if my cursor is in the center of the word, ***the whole word*** will be surrounded
 
@@ -51,6 +51,9 @@ i can also surround many words ***by replacing*** the "***x***" in this command 
 `ys2aw} = Hello *{at world}`  
 `ys3aw[ = [ He*llo at world ]`  
 
+And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:
 
+`ysiw<p> = <p>Hello world</p>`  
+`ys2aw<h1> = <h1>Hello world</h1>  
 
 
