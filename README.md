@@ -32,4 +32,8 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 Now you can surround an entire sentence with the desired character, but you can't surround just one or two words
 
-if you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word, some examples*** :
+if you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
+
+`H*(ello) world`
+`Hello *(worl)d`   * = my cursor
+`*(Hello) world`   --------------
