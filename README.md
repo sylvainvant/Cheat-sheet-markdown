@@ -42,14 +42,15 @@ if you want to surround ***only*** one word you can use `ysw)` to surround the w
 
 If i want to surround the complete word then i use `ysiw` ( is = entire word) with this command even if my cursor is in the center of the word, ***the whole word*** will be surrounded
 
-#### * = my cursor
-
 `ysiw' = 'He*llo' world`  
 `ysiw- = Hello -wo*rld-`  
 
-i can also surround several words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***
+i can also surround many words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***
 
 `ys2aw) = (*Hello at) world`  
+`ys2aw} = Hello *{at world}`  
 `ys3aw[ = [ He*llo at world ]`  
+
+
 
 
