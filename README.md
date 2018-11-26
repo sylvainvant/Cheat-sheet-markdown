@@ -29,3 +29,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 `yss) = (Hello world)`    
 `yss] = [Hello world]`
+
+Now you can surround an entire sentence with the desired charactern, but you can't surround just one or two words
+
+if you want to surround only one word you can use ysw) to surround the word with parenthesis from the cursor to the end of the word, some examples :
