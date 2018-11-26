@@ -16,9 +16,7 @@ And i can also use the command to add ***brackets, parenthesis*** and ***many ot
 
 `yss) = (Hello world)`
 
-*Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings
-
-### ***Example*** : 
+*Tips* for ***(parenthesis),[brackets]*** and ***{braces}*** if we use the characters that open these signs we will have an extra space between the word and its surroundings, example : 
 
 ### ***With space***
 
@@ -51,9 +49,9 @@ i can also surround many words ***by replacing*** the "***x***" in this command 
 `ys2aw} = Hello *{at world}`  
 `ys3aw[ = [ He*llo at world ]`  
 
-And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:
+<center>And if I want to surround my words with HTML tags it's possible, they will even close themselves, for example:</center>
 
 `ysiw<p> = <p>Hello world</p>`  
-`ys2aw<h1> = <h1>Hello world</h1>  
+`ys2aw<h1> = <h1>Hello world</h1>`   
 
 
