@@ -34,8 +34,8 @@ Now you can surround an entire sentence with the desired character, but you can'
 
 if you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
 
-### * = My cursor
+## * = My cursor
 
 `H*(ello) world`  
-`Hello *(worl)d`   
+`Hello *(world)`   
 `*(Hello) world`  
