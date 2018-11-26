@@ -29,6 +29,23 @@ cd = change directory
  * .. = parent file
  * ... = parent of parent file..
 
+ln = link
+ * -s = symbolic
+ * -f = force and overwrites if it exits
+ * -d = link on directory ( only in root )
+
+find (natif recursive)
+ * -(i)name = search by name (i for indifferent to the casse)
+ * -type = search by type
+ * -link = searching for the number of links to the file
+ * -exec = executes the command given to the found files
+
 man = manual
 
 pwd = print working directory
+
+grep = Searches for a character string in files 
+
+cat = concatenate
+
+chmod = change mode
