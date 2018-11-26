@@ -25,7 +25,7 @@ mk = make
  * -p = creates parent directories if they dont exist
 
 cd = change directory
- * - = return last dir
+ * *-* = return last dir
  * .. = parent file
  * ... = parent of parent file..
 
