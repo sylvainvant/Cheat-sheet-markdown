@@ -60,8 +60,8 @@ And if I want to surround my words with HTML tags it's possible, they will even 
 
 ```v S<em> = <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus, pellentesque non volutpat vitae, consequat ut purus
 
-. Vivamus quis dui sodales lacus hendrerit volutpat.
- Phasellus ac sagittis arcu.</em>```
+Vivamus quis dui sodales lacus hendrerit volutpat.
+Phasellus ac sagittis arcu.</em>```
 
 
 
