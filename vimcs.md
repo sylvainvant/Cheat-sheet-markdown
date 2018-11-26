@@ -19,7 +19,7 @@
 * 0 = jump to the start of the line
 * ^ = jump to the first non=blank character of the line
 * $ = jump to the end of the line
-* g*_* = jump to the last non=blank character of the line
+* g *_* = jump to the last non=blank character of the line
 * gg = go to the first line of the document
 * G = go to the last line of the document
 * 5G = go to line 5
