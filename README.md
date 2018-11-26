@@ -34,8 +34,22 @@ Now you can surround an entire sentence with the desired character, but you can'
 
 if you want to surround ***only*** one word you can use `ysw)` to surround the word with *parenthesis* ***from the cursor to the end of the word***, some examples :
 
-#### * = My cursor
+#### * = my cursor
 
 `H*(ello) world`  
 `Hello *(world)`   
 `*(Hello) world`  
+
+If i want to surround the complete word then i use `ysiw` ( is = entire word) with this command even if my cursor is in the center of the word, ***the whole word*** will be surrounded
+
+#### * = my cursor
+
+`ysiw' = 'He*llo' world`  
+`ysiw- = Hello -wo*rld-`  
+
+i can also surround several words ***by replacing*** the "***x***" in this command `ysXaw` with a ***number***
+
+`ys2aw) = (*Hello at) world`  
+`ys3aw[ = [ He*llo at world ]`  
+
+
