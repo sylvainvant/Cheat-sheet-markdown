@@ -2,6 +2,8 @@
 
 ### if you haven't installed it yet, come here : https://vimawesome.com/plugin/surround-vim
 
+## Add surrounding
+
 With this plugin you can surround words or sentences with a simple command in vim
 
 For example we have a sentence : `Hello world` 
@@ -75,6 +77,8 @@ VS<em> = <em>
          </em>
 ```
 
+---
 
+## Replace surrounding
 
 
