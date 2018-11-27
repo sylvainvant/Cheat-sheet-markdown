@@ -3,7 +3,7 @@
 #### if you haven't installed it yet, come here : https://vimawesome.com/plugin/surround-vim
 
 
-## Add surrounding
+## Adding surrounding
 
 With this plugin you can surround words or sentences with a simple command in vim
 
@@ -83,9 +83,9 @@ VS<em> = <em>
 
 ---
 
-## Replace surrounding
+## Replacing surrounding
 
-Now we'll see how to replace the surroundings. To do this we will use `cs`, ***followed by the character surrounding the word or sentence + followed by the character with which we want to replace***  
+Now we'll see how to replace the surroundings. To do this we will use `cs` (change surround) , ***followed by the character surrounding the word or sentence + followed by the character with which we want to replace***  
 
 For example we have a sentence : `"Hello world"`
 
@@ -104,7 +104,21 @@ It is also possible to combine the two to replace a ***tag*** with a ***characte
 
 ---
 
+## Deleting Surroundings
 
+Finally we will remove surrounding to the word / sentence 
 
+with the command `ds` ***delete surrounding*** from a word / sentence followed by the character to be deleted
 
+For example we have a sentence : `"Hello world"`
+
+`ds" = Hello world`
+
+You can also delete the tags of a word or a sentence with `dst`
+
+For example we have a sentence : `<em>Hellow world</em>`
+
+`dst = Hello world`
+
+If you want  use `.` for repeat last command use [repeat.vim](https://github.com/tpope/vim-repeat)
 
