@@ -67,6 +67,14 @@ Vivamus quis dui sodales lacus hendrerit volutpat.
 Phasellus ac sagittis arcu.</em>
 ```
 
+And to include a text in a tag
+
+```
+V S<em> = <em>
+          Hello world
+          </em>
+```
+
 
 
 
