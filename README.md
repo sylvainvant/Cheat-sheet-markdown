@@ -79,16 +79,30 @@ VS<em> = <em>
          </em>
 ```
 
+( Most vim commands work with surround commands, for example using a `$` or `0` to surround / replace / delete until the beginning or end of a sentence works with the surround plugin)
+
 ---
 
 ## Replace surrounding
 
-Now we'll see how to replace the surroundings. To do this we will use `cs`, ***followed by the character surrounding the word or sentence, followed by the character with which we want to replace***
+Now we'll see how to replace the surroundings. To do this we will use `cs`, ***followed by the character surrounding the word or sentence + followed by the character with which we want to replace***  
 
+For example we have a sentence : `"Hello world"`
 
+If i want to replace surround of this sentence I will do `cs"(` to put parenthesis instead
 
+`cs"( = (Hello world)`
 
+I can also replace tags by using the `cst` command (change surrounded tag)
+We have a sentence : `<em>Hello world<em>`
 
+`cst<h1> = <h1>Hello world<h1>`
+
+It is also possible to combine the two to replace a ***tag*** with a ***character*** and vice versa 
+
+`cst* = *Hello world*`
+
+---
 
 
 
