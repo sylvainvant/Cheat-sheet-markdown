@@ -2,6 +2,7 @@
 
 ### if you haven't installed it yet, come here : https://vimawesome.com/plugin/surround-vim
 
+
 ## Add surrounding
 
 With this plugin you can surround words or sentences with a simple command in vim
@@ -63,7 +64,8 @@ Let's finish by doing a v ( to put it in visual mode on vim) then selecting all 
 It also allows you to surround a block of text even with spaced lines
 
 ```
-v S<em> = <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus, pellentesque non volutpat vitae, consequat ut purus
+v S<em> = <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis augue metus, 
+pellentesque non volutpat vitae, consequat ut purus
 
 Vivamus quis dui sodales lacus hendrerit volutpat.
 Phasellus ac sagittis arcu.</em>
